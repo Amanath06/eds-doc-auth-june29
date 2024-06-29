@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--{repo}--{owner}.hlx.live/
-- After: https://<branch>--{repo}--{owner}.hlx.live/
+- Before: https://main--eds-doc-auth-june29--Amanath06.hlx.live/
+- After: https://<branch>--eds-doc-auth-june29--Amanath06.hlx.live/
